@@ -1,10 +1,9 @@
 # Supplier-Evaluation-Dashboard
 This repository has a Power BI dashboard that analyzes supplier performance by evaluating categories like vendors, plants, materials, and defect types. It provides insights into underperforming suppliers, downtime impact, and financial losses, helping manufacturers optimize procurement, and reduce operational inefficiencies.
+
 ![image](https://github.com/user-attachments/assets/e9d29d11-2ba2-4ce8-8e05-baaa89766c67)
 
-DASHBOARD INSIGHT
-
-Homepage
+Dashboard Homepage
 ![Screenshot 2025-04-19 103225](https://github.com/user-attachments/assets/4036509f-c311-44a7-834b-945099eda465)
 
 Overview page
